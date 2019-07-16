@@ -11,5 +11,7 @@ To start playing around:
 python3 SQLiSearch.py -q "php?id=" : Basic query for search for an injection
 
 Another options:
+
   -n: number of searchs done by google
+  
   -p: pause between searches, if it's too low google probably blocks you(dam u google!!)
