@@ -4,11 +4,11 @@ Tool for searching SQLi on google
 This tool search with the google dorks that you provide on google, and then check for a possible sqli on those sites
 
 To install the requirements:
-  pip3 -r install requirements
+  pip3 -r install requirements.txt
 
 To start playing around:
 
-python3 SQLiSearch.py -q "php?id=" : Basic query for search for an injection
+python3 SQLiSearch.py -q "php?id=" : Basic query for search for an injection on php pages
 
 Another options:
 
