@@ -1,7 +1,7 @@
 # SQLiSearch
 Tool for searching SQLi on google
 
-This tool search with the google dorks that you provide on google, and then check for a possible sqli on those sites
+This tool search with the google dorks that you provide on google, and then check for a possible sqli on those sites, it requires python3 in order to work
 
 To install the requirements:
   pip3 -r install requirements.txt
