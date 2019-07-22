@@ -19,7 +19,7 @@ def searchSQLi(query, number, pause):
 				if(str(r1.text) != str(r2.text)):
 					n += 1
 					print("Possible SQLi on: " + str(i))
-					f.write(i)
+					f.write(i + "\n")
 		except e:
 			logs.write(e)
 			continue
